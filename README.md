@@ -1,2 +1,2 @@
 # bggn211
-Bioinformatics class
+Bioinformatics class Winter 2022 at UCSD.
